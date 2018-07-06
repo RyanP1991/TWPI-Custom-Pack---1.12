@@ -1,0 +1,38 @@
+Updated Forge - 14.23.4.2727
+
+Mods Added:
+
+Diet Hoppers
+
+Mods Removed:
+
+N/A
+
+Mods Updated:
+
+Astral Sorcery
+Conected Textures Mod
+Construct's Armory
+Ender Core
+Ender IO
+Just Enough Items
+Mob Grinding Utils
+Reeborn Core
+Thaumcraft
+X-Net
+
+Config Changes:
+
+Flat Colored Blocks - Display Texture changed to Flawless
+
+Extended Crafting - Disabled singularities for chrome / tungsten / zinc
+
+Forestry - Disabled backpacks
+
+Script Changes:
+
+Fixed End Crystal conflict recipe
+
+Fixed Embers Caminite Ring recipe
+
+Fixed AE2 creative energy cell recipe
