@@ -1,0 +1,68 @@
+Forge updateed to version 14.23.4.2739 
+
+Mods Added:
+
+Translocators
+
+Mods Removed:
+
+N/A
+
+Mods Updated:
+
+Actually Additions
+Advanced Rocketry
+Binnie Mods
+Blood Magic
+Chisel and Bits
+CoFH Core
+Connected Textures Mod
+Construct's Armory
+Cucumber Library
+Environmental Tech
+Extended Crafting
+Extra Utilities 2
+Farseek
+Forestry
+Friendship Bracelet
+FTB Utilities
+Ftb Lib
+Guide API
+Immersive Engineering
+Industrial Foregoing
+Just Enough Resources
+Lib Vulpes
+McJtyLib
+Mob Grinding Utils
+Mod Tweaker
+Mr Crayfish's Furniture Mod
+Quantum Storage
+Random Patches
+Reborn Storage
+Refined Storage
+Refined Storage Addons
+RF Tools
+Thaumcraft
+Top Addons
+Valkyrie Lib
+Waystones
+Woot
+Yabba
+
+ 
+
+Config Changes:
+
+Wireless Crafting Terminal
+- Infinity energy consumption reduced to 5 per tick
+- Boosteer Cards now convert in to 500 energy instead of 100
+
+Script Changes:
+
+Added recipe for Advanced Rocketry silicon ingot
+
+Added recipe to convert diamond nuggets for Translocators
+
+JEI Tooltips:
+
+Added tooltips to explain about tinker modifiers and half amount of XP required to level up.
